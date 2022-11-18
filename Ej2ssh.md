@@ -19,4 +19,5 @@ Con el comando `sudo nano Ejercicio2.txt` creamos el fichero de texto.
 
 Utilizamos el comando `ls` para asegurarnos que el archivo este creado.
 
-enlace----------------
+![imagen1](./1.png)
+![imagen1](./2.png)
