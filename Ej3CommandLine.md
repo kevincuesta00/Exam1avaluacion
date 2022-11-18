@@ -8,3 +8,5 @@ Procedemos a ir a la carpeta que hemos creado en el ejercicio anterior y usamos 
 
 * SUDO - con `sudo` le damos permiso para que pueda descargar la imagen desde internet.
 * WGET - con `wget` le decimos que descarge la imagen de la red.
+
+![imagen1](./3.png)
